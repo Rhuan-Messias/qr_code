@@ -19,5 +19,3 @@ qr_imagem = qr_reels.make_image(fill_color= 'black', back_color = 'white')
 qr_imagem.save('github_rhuan.png') #png para mensagens, jpg para o link 
 
 #pillow save() function to save the qr image 
-
-qr_imagem.show()
